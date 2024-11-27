@@ -1,8 +1,8 @@
 # 👋🏻 Hi, I'm Ailín!
-👩🏻‍🎓 Professional and Personal Computer Technician<br/>
-👩🏻‍💻 Currently studying the Web Development Technical Degree at the National University of La Matanza<br/>
-🎯 I focus on developing projects with a futuristic approach, combining technology and design to bring ideas to life that reflect my belief that the future is noew.<br/>
-🌐 I see innovation as a tool to transform the present and shpe a more connected, functional, and visionary tomorrow<br/>
+👩🏻‍🎓 <b>Professional and Personal Computer Technician</b><br/>  
+👩🏻‍💻 <b>Currently studying the Web Development Technical Degree</b> at the National University of La Matanza<br/>  
+🎯 I focus on developing projects with a futuristic approach, combining technology and design to bring ideas to life that reflect my belief that <b>the future is now</b>.<br/>  
+🌐 I see innovation as a tool to transform the present and shape a more connected, functional, and visionary tomorrow.<br/>  
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
