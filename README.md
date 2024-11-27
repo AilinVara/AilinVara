@@ -6,7 +6,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=AilinVara&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AilinVara&layout=compact)](https://github.com/AilinVara/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AilinVara&layout=compact&theme=dracula)](https://github.com/AilinVara/github-readme-stats)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
